@@ -7,11 +7,11 @@ It fetches data from the **OpenWeatherMap API** and displays key weather metrics
 
 ## Features
 <ul>
-  <li>City Search Functionality</li>
   <li>Real-Time Weather Data</li>
-  <li>Weather Information Display</li>
+  <li>Dynamic User Input Handling</li>
+  <li>Dynamic Content Rendering</li>
   <li>Mobile-Friendly Design</li>
-  <li>Real-time updates (no page reload)</li>
+  <li>Minimal & Modern UI</li>
 </ul> 
 <br>
 
