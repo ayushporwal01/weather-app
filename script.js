@@ -42,7 +42,7 @@ const searchWeather = () => {
 }
 
 const initApp = () => {
-   valueSearch.value = 'Tokyo';
+   valueSearch.value = 'Indore';
    searchWeather();
 }
 initApp();
