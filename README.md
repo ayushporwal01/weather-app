@@ -11,7 +11,7 @@ It fetches data from the **OpenWeatherMap API** and displays key weather metrics
   <li>City-Based Weather Search</li>
   <li>Instant Error Feedback for Invalid Cities</li>
   <li>Fast Load & Lightweight Performance</li>
-  <li>Mobile-Friendly Design</li>
+  <li>Mobile and Desktop Friendly Interface</li>
 </ul> 
 <br>
 
